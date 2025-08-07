@@ -1,0 +1,24 @@
+/* src/styles/Services.css */
+
+.services {
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+.services h2 {
+  font-size: 2rem;
+  color: #2e8b57;
+  margin-bottom: 1rem;
+}
+
+.services ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.services li {
+  font-size: 1.1rem;
+  margin: 0.75rem 0;
+}

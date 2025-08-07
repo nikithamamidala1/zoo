@@ -1,0 +1,17 @@
+/* src/styles/Contact.css */
+
+.contact {
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+.contact h2 {
+  font-size: 2rem;
+  color: #2e8b57;
+  margin-bottom: 1rem;
+}
+
+.contact p {
+  font-size: 1.1rem;
+  margin: 0.5rem 0;
+}
